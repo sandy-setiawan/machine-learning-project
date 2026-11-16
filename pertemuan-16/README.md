@@ -1,7 +1,7 @@
 # Machine Learning - Tugas Pertemuan 16
 
-Nama Lengkap  : Sandy Setiawan\n
-NIM           : 241011400869\n
-Kelas         : 05TPLP022\n
-Mata Kuliah   : Machine Learning\n
-Nama Dosen    : Asep Erlan Maulana, S.Kom., M.Kom.
+Nama Lengkap  : Sandy Setiawan \
+NIM           : 241011400869 \
+Kelas         : 05TPLP022 \
+Mata Kuliah   : Machine Learning \
+Nama Dosen    : Asep Erlan Maulana, S.Kom., M.Kom. \
